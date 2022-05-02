@@ -20,7 +20,7 @@ function countCats(matrix) {
 
   for (let i = 0; i <  arrCats.length; i++) {
 
-    if (arrCars[i] == '^^') {
+    if (arrCats[i] == '^^') {
       countCats +=1;
     }
   }
